@@ -1,0 +1,10 @@
+.hello-world4-view {
+  display: block;
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 var(--lumo-space-l);
+}
+.hello-world4-view .button-layout {
+  margin-bottom: var(--lumo-space-l);
+  margin-top: var(--lumo-space-m);
+}
